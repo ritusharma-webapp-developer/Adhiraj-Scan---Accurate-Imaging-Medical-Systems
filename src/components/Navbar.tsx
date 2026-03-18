@@ -11,6 +11,7 @@ export default function Navbar() {
     { name: 'About Us', path: '/about' },
     { name: 'Services', path: '/services' },
     { name: 'For Doctors', path: '/referral' },
+    { name: 'Doctor Portal', path: '/doctor-portal' },
     { name: 'Blog', path: '/blog' },
     { name: 'Contact', path: '/contact' },
   ];
@@ -25,7 +26,7 @@ export default function Navbar() {
           <div className="flex space-x-6">
             <div className="flex items-center">
               <Phone className="w-4 h-4 mr-2" />
-              <span>+91 98765 43210</span>
+              <span>+91 9685312236</span>
             </div>
             <div className="flex items-center">
               <Clock className="w-4 h-4 mr-2" />

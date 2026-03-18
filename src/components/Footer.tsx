@@ -42,6 +42,7 @@ export default function Footer() {
               <li><Link to="/services" className="text-slate-400 hover:text-blue-400 transition-colors text-sm">Our Services</Link></li>
               <li><Link to="/appointment" className="text-slate-400 hover:text-blue-400 transition-colors text-sm">Book Appointment</Link></li>
               <li><Link to="/referral" className="text-slate-400 hover:text-blue-400 transition-colors text-sm">Doctor Referral</Link></li>
+              <li><Link to="/doctor-portal" className="text-slate-400 hover:text-blue-400 transition-colors text-sm">Doctor Portal</Link></li>
               <li><Link to="/blog" className="text-slate-400 hover:text-blue-400 transition-colors text-sm">Health Blog</Link></li>
               <li><Link to="/contact" className="text-slate-400 hover:text-blue-400 transition-colors text-sm">Contact Us</Link></li>
             </ul>
@@ -74,7 +75,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center">
                 <Phone className="h-5 w-5 text-blue-400 mr-3 flex-shrink-0" />
-                <span className="text-slate-400 text-sm">+91 98765 43210</span>
+                <span className="text-slate-400 text-sm">+91 9685312236</span>
               </li>
               <li className="flex items-center">
                 <Mail className="h-5 w-5 text-blue-400 mr-3 flex-shrink-0" />

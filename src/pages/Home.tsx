@@ -39,7 +39,7 @@ export default function Home() {
                 Book Appointment
               </Link>
               <a
-                href="tel:+919876543210"
+                href="tel:+919685312236"
                 className="bg-transparent border-2 border-white text-white hover:bg-white/10 px-8 py-4 rounded-md font-bold text-lg transition-colors duration-200 text-center flex items-center justify-center"
               >
                 <Phone className="w-5 h-5 mr-2" />
@@ -212,7 +212,7 @@ export default function Home() {
               Book Now
             </Link>
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/919685312236"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-green-500 text-white hover:bg-green-600 px-8 py-3 rounded-md font-bold transition-colors text-center shadow-md flex items-center justify-center"

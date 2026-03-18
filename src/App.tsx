@@ -13,6 +13,7 @@ import Appointment from './pages/Appointment';
 import Referral from './pages/Referral';
 import Blog from './pages/Blog';
 import Contact from './pages/Contact';
+import DoctorPortal from './pages/DoctorPortal';
 import FloatingActions from './components/FloatingActions';
 
 export default function App() {
@@ -27,6 +28,7 @@ export default function App() {
             <Route path="/services" element={<Services />} />
             <Route path="/appointment" element={<Appointment />} />
             <Route path="/referral" element={<Referral />} />
+            <Route path="/doctor-portal" element={<DoctorPortal />} />
             <Route path="/blog" element={<Blog />} />
             <Route path="/contact" element={<Contact />} />
           </Routes>

@@ -48,8 +48,7 @@ export default function Contact() {
                 <div className="ml-6">
                   <h3 className="text-xl font-semibold text-slate-900">Phone Numbers</h3>
                   <p className="mt-2 text-slate-600">
-                    <a href="tel:+919876543210" className="hover:text-blue-600 transition-colors">+91 98765 43210</a><br />
-                    <a href="tel:+919876543211" className="hover:text-blue-600 transition-colors">+91 98765 43211</a>
+                    <a href="tel:+919685312236" className="hover:text-blue-600 transition-colors">+91 9685312236</a>
                   </p>
                 </div>
               </div>

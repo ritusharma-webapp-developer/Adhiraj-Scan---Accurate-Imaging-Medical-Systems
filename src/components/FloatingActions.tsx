@@ -42,7 +42,7 @@ export default function FloatingActions() {
       </button>
 
       <a
-        href="tel:+919876543210"
+        href="tel:+919685312236"
         className="bg-blue-600 text-white p-3 rounded-full shadow-lg hover:bg-blue-700 transition-colors duration-300 flex items-center justify-center group relative"
         aria-label="Call Now"
       >
@@ -53,7 +53,7 @@ export default function FloatingActions() {
       </a>
       
       <a
-        href="https://wa.me/919876543210"
+        href="https://wa.me/919685312236"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-green-500 text-white p-3 rounded-full shadow-lg hover:bg-green-600 transition-colors duration-300 flex items-center justify-center group relative"

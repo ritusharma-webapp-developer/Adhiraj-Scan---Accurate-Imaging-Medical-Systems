@@ -63,7 +63,7 @@ export default function Appointment() {
                     <Phone className="w-6 h-6 text-blue-400 mr-4 mt-1" />
                     <div>
                       <h4 className="font-semibold text-lg">Phone</h4>
-                      <p className="text-blue-200">+91 98765 43210</p>
+                      <p className="text-blue-200">+91 9685312236</p>
                     </div>
                   </div>
                   <div className="flex items-start">
@@ -78,7 +78,7 @@ export default function Appointment() {
               </div>
               <div className="mt-12">
                 <a
-                  href="https://wa.me/919876543210"
+                  href="https://wa.me/919685312236"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center justify-center w-full bg-green-500 hover:bg-green-600 text-white px-6 py-3 rounded-md font-bold transition-colors"
@@ -124,7 +124,7 @@ export default function Appointment() {
                       value={formData.phone}
                       onChange={handleChange}
                       className="pl-10 block w-full rounded-md border-slate-300 shadow-sm focus:border-blue-500 focus:ring-blue-500 sm:text-sm py-3 border bg-slate-50"
-                      placeholder="+91 98765 43210"
+                      placeholder="+91 9685312236"
                     />
                   </div>
                 </div>
